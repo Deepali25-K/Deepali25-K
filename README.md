@@ -71,10 +71,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/Deepali25-K /count.svg?"  />
 </div>
 
 ###
 
+![Deepali25-K's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepali25-K&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 ###
+
+![Deepali25-K's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepali25-K&theme=radical&hide_border=false)
