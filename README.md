@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Deepali Panchal from Delhi, India, an aspiring frontend developer and UI/UX designer. ✨</p>
+<p align="left">I am Deepali Panchal, a frontend developer and visual designer based in Delhi, India. ✨</p>
 <br>
 
 ###
