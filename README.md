@@ -1,15 +1,14 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋🏼</h1>
 
 ###
 
-<br>
+<br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="130" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhOGkxbWx1MjB2bWFqNDd0c200dzVjdGp5dXo1MWJwMmp0bnFreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lRCX2UUu6NoNtC/giphy.gif"  />
 
 ###
 
-<p align="left">I am Deepali Panchal, a frontend developer and visual designer based in Delhi, India. ✨</p>
-<br>
+<p align="left">I'm Deepali Panchal, a frontend developer and an aspiring UI/UX designer from Delhi, India. ✨</p>
 
 ###
 
@@ -17,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Working on Frontend Mentor challenges to hone my skills.<br>📚 I'm currently learning JavaScript.<br>🎯 Goal for 2024: I want to build websites that make a difference.<br>🎲 Fun fact: I write about transformation and self-empowerment on Medium.</p>
+<p align="left">✨ Working on Frontend Mentor challenges to hone my skills.<br>📚 I'm currently learning React.<br>🎯 Goal for 2024: I want to build websites that make a difference.<br>🎲 Fun fact: I write free verse and epistolary poems about transformation and romance.</p>
 
 ###
 
@@ -36,7 +35,11 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="18" />
@@ -50,13 +53,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 </div>
 
 ###
@@ -66,21 +69,23 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/iamdeepali/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/Iam_DeepaliP" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a href="https://codepen.io/Iam_DeepaliP" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/Deepali25-K /count.svg?"  />
 </div>
 
 ###
 
-![Deepali25-K's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepali25-K&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepali25-K &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Deepali25-K &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
-
-![Deepali25-K's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepali25-K&theme=radical&hide_border=false)
