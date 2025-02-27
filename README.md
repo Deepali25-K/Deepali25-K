@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Working on Frontend Mentor challenges to hone my skills.<br>📚 I'm currently learning React.<br>🎯 Goal for 2025: I want to build websites that make a difference.<br>🎲 Fun fact: I write free verse and epistolary poems about transformation and romance.</p>
+<p align="left">✨ Working on Frontend Mentor challenges to hone my skills.<br>📚 I'm currently learning React.<br>🎯 Goal for 2025: I want to build websites that make a difference.<br>🎲 Fun fact: I write free verse and epistolary poems about transformation and romance, and I illustrate dreamy landscapes and character illustrations.</p>
 
 ###
 
